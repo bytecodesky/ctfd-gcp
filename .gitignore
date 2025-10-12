@@ -8,3 +8,6 @@
 # Crash log files
 crash.log
 crash.*.log
+
+# Terraform lock file
+.terraform.lock.hcl
