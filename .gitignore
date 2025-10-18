@@ -8,3 +8,10 @@
 # Crash log files
 crash.log
 crash.*.log
+
+# Terraform lock file (optional - some teams commit this)
+# .terraform.lock.hcl
+
+# User-specific variable files
+vars.auto.tfvars
+terraform.tfvars
